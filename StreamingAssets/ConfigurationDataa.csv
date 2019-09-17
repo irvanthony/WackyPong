@@ -1,0 +1,2 @@
+PaddleMoves,BallImpulse,BallLifeSec,MinSpawn,MaxSpawn,StdPoints,StdHits,BonusPoints,BonusHits,FreezerSec,SpeedSec,SpeedFac,StdProb,BonusProb,FreezerProb,SpeedUpProb
+10,5,3,5,10,2,2,3,3,2,2,2,0.6,0.2,0.1,0.1
